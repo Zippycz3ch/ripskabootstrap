@@ -1,0 +1,13 @@
+.navbar-brand-wrapper {
+    position: absolute;
+    left: 0;
+}
+
+.navbar-center {
+    position: relative;
+    width: 100%;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
